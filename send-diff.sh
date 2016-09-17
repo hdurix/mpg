@@ -12,7 +12,8 @@ diffText=`cat $FILENAME`
 
 if [[ $diffText = *[!\ ]* ]]; then
   curl --data chat_id=$CHAT_ID --data-urlencode "text=$diffText"  "https://api.telegram.org/$BOT_ID/sendMessage"
+  git commit mpg-fr.csv -m 'automatical commit'
 else
-  echo "\$no change"
+  echo "no change"
 fi
 
