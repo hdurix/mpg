@@ -7,7 +7,7 @@ LOG_FILE=/home/pi/java/mpg/log-cron.log
 
 function log {
   echo ${*}
-  echo [`date +"%D"` - `date +"%T"`] -- $1  -- ${*} >> ${LOG_FILE}
+  echo [`date +"%D"` - `date +"%T"`] -- $COUNTRY  -- ${*} >> ${LOG_FILE}
 }
 
 if [ -z "$1" ]
@@ -16,10 +16,17 @@ then
   exit 1;
 fi
 
+if [ -z "$2" ]
+then
+  log 'No league id'
+  exit 1;
+fi
+
 FILENAME_DIFF=mpg-$1.diff
 FILENAME_CSV=mpg-$1.csv
+COUNTRY=$1
 
-java -jar extract.jar $FILENAME_CSV
+java -jar extract.jar $FILENAME_CSV $2
 
 git diff -U0 $FILENAME_CSV | grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' > $FILENAME_DIFF
 
