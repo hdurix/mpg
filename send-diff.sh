@@ -1,9 +1,9 @@
 #!/bin/bash
 
 BOT_ID=bot240296447:AAGBITXsf-lum81WoVjUS2oQEaJJ2t3hUwQ
-#CHAT_ID=-165929953
-CHAT_ID=26450749
-LOG_FILE=/home/pi/java/mpg/log-cron.log
+CHAT_ID=-165929953
+#CHAT_ID=26450749
+LOG_FILE=/home/pi/java/mpg/log-extract.log
 
 function log {
   echo ${*}
