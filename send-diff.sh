@@ -1,19 +1,34 @@
 #!/bin/bash
 
-FILENAME='mpg-fr.diff'
 BOT_ID=bot240296447:AAGBITXsf-lum81WoVjUS2oQEaJJ2t3hUwQ
-CHAT_ID=-165929953
+#CHAT_ID=-165929953
+CHAT_ID=26450749
+LOG_FILE=/home/pi/java/mpg/log-cron.log
 
-java -jar extract.jar 'mpg-fr.csv'
+function log {
+  echo ${*}
+  echo [`date +"%D"` - `date +"%T"`] -- $1  -- ${*} >> ${LOG_FILE}
+}
 
-git diff -U0 mpg-fr.csv | grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' > $FILENAME
+if [ -z "$1" ]
+then
+  log 'No parameter'
+  exit 1;
+fi
 
-diffText=`cat $FILENAME`
+FILENAME_DIFF=mpg-$1.diff
+FILENAME_CSV=mpg-$1.csv
+
+java -jar extract.jar $FILENAME_CSV
+
+git diff -U0 $FILENAME_CSV | grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' > $FILENAME_DIFF
+
+diffText=`cat $FILENAME_DIFF`
 
 if [[ $diffText = *[!\ ]* ]]; then
   curl --data chat_id=$CHAT_ID --data-urlencode "text=$diffText"  "https://api.telegram.org/$BOT_ID/sendMessage"
   git commit mpg-fr.csv -m 'automatical commit'
 else
-  echo "no change"
+  log 'no changes'
 fi
 
