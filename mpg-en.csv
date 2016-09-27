@@ -34,6 +34,7 @@ Fuck-Tonio FC;Origi;Attaquant;Liverpool;25
 Fuck-Tonio FC;Pogba;Milieu;Man United;35
 Fuck-Tonio FC;Son Heung-Min;Milieu;Tottenham;6
 Fuck-Tonio FC;Sánchez;Attaquant;Arsenal;81
+Fuck-Tonio FC;Vorm;Gardien;Tottenham;12
 Fuck-Tonio FC;Xhaka;Milieu;Arsenal;12
 I speak pas english;Bellerín;Défenseur;Arsenal;17
 I speak pas english;Benteke;Attaquant;Crystal Palace;25
@@ -105,30 +106,34 @@ The Bastards;Foster;Gardien;West Bromwich;13
 The Bastards;Gueye;Milieu;Everton;24
 The Bastards;Jagielka;Défenseur;Everton;24
 The Bastards;Janssen;Attaquant;Tottenham;16
-The Bastards;Kingsley;Défenseur;Swansea;13
-The Bastards;Kouyaté;Milieu;West Ham;12
 The Bastards;Lallana;Milieu;Liverpool;21
+The Bastards;McArthur;Milieu;Crystal Palace;8
 The Bastards;McAuley;Défenseur;West Bromwich;16
 The Bastards;Myhill;Gardien;West Bromwich;7
 The Bastards;Slimani;Attaquant;Leicester;36
+The Bastards;Tomkins;Défenseur;Crystal Palace;8
 The Bastards;Townsend;Milieu;Crystal Palace;15
 The Bastards;Walker;Défenseur;Tottenham;21
 The Bastards;Ward;Défenseur;Crystal Palace;5
 The Bastards;Wilson;Attaquant;Bournemouth;13
 myteam;Agüero;Attaquant;Man City;161
-myteam;Allen;Milieu;Stoke City;12
 myteam;Boruc;Gardien;Bournemouth;10
+myteam;Cook;Défenseur;Bournemouth;9
+myteam;Coquelin;Milieu;Arsenal;10
 myteam;Dawson;Défenseur;West Bromwich;12
 myteam;Delaney;Défenseur;Crystal Palace;12
 myteam;Diego Costa;Attaquant;Chelsea;161
-myteam;Evans;Défenseur;West Bromwich;12
 myteam;Federici;Gardien;Bournemouth;5
-myteam;Ighalo;Attaquant;Watford;16
 myteam;Kanté;Milieu;Chelsea;28
 myteam;Ledley;Milieu;Crystal Palace;12
+myteam;Matip;Défenseur;Liverpool;16
+myteam;Redmond;Milieu;Southampton;14
+myteam;Wanyama;Milieu;Tottenham;17
+myteam;Williams;Défenseur;Everton;16
 nut fc;Alderweireld;Défenseur;Tottenham;16
 nut fc;Arnautovic;Attaquant;Stoke City;14
 nut fc;Austin;Attaquant;Southampton;14
+nut fc;Clyne;Défenseur;Liverpool;15
 nut fc;Coutinho;Milieu;Liverpool;67
 nut fc;Darmian;Défenseur;Man United;14
 nut fc;Eriksen;Milieu;Tottenham;17
@@ -136,9 +141,11 @@ nut fc;Ethan Robson;Milieu;Sunderland;1
 nut fc;Flanagan;Défenseur;Burnley;1
 nut fc;Gibson;Défenseur;Middlesbrough;15
 nut fc;Hazard;Milieu;Chelsea;76
+nut fc;Karius;Gardien;Liverpool;1
 nut fc;Lamela;Milieu;Tottenham;28
 nut fc;Marc Wilson;Défenseur;Bournemouth;5
 nut fc;Mignolet;Gardien;Liverpool;18
+nut fc;Milner;Milieu;Liverpool;20
 nut fc;Monreal;Défenseur;Arsenal;16
 nut fc;Oscar;Milieu;Chelsea;49
 nut fc;Oxlade-Chamberlain;Milieu;Arsenal;26
