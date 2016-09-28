@@ -128,6 +128,8 @@ myteam;Kanté;Milieu;Chelsea;28
 myteam;Ledley;Milieu;Crystal Palace;12
 myteam;Matip;Défenseur;Liverpool;16
 myteam;Redmond;Milieu;Southampton;14
+myteam;Smith;Défenseur;Bournemouth;13
+myteam;Stanislas;Milieu;Bournemouth;3
 myteam;Wanyama;Milieu;Tottenham;17
 myteam;Williams;Défenseur;Everton;16
 nut fc;Alderweireld;Défenseur;Tottenham;16
@@ -143,6 +145,7 @@ nut fc;Gibson;Défenseur;Middlesbrough;15
 nut fc;Hazard;Milieu;Chelsea;76
 nut fc;Karius;Gardien;Liverpool;1
 nut fc;Lamela;Milieu;Tottenham;28
+nut fc;Manninger;Gardien;Liverpool;9
 nut fc;Marc Wilson;Défenseur;Bournemouth;5
 nut fc;Mignolet;Gardien;Liverpool;18
 nut fc;Milner;Milieu;Liverpool;20
@@ -151,4 +154,5 @@ nut fc;Oscar;Milieu;Chelsea;49
 nut fc;Oxlade-Chamberlain;Milieu;Arsenal;26
 nut fc;Rashford;Attaquant;Man United;25
 nut fc;Tadic;Milieu;Southampton;19
+nut fc;Zaza;Attaquant;West Ham;15
 nut fc;van Dijk;Défenseur;Southampton;13
