@@ -100,7 +100,6 @@ The Bastards;Dann;Défenseur;Crystal Palace;24
 The Bastards;Davies;Défenseur;Hull city;24
 The Bastards;Deeney;Attaquant;Watford;22
 The Bastards;Defoe;Attaquant;Sunderland;48
-The Bastards;Diomande;Attaquant;Hull city;28
 The Bastards;Fer;Milieu;Swansea;22
 The Bastards;Foster;Gardien;West Bromwich;13
 The Bastards;Gueye;Milieu;Everton;24
@@ -111,6 +110,7 @@ The Bastards;McArthur;Milieu;Crystal Palace;8
 The Bastards;McAuley;Défenseur;West Bromwich;16
 The Bastards;Myhill;Gardien;West Bromwich;7
 The Bastards;Slimani;Attaquant;Leicester;36
+The Bastards;Stuani;Attaquant;Middlesbrough;23
 The Bastards;Tomkins;Défenseur;Crystal Palace;8
 The Bastards;Townsend;Milieu;Crystal Palace;15
 The Bastards;Walker;Défenseur;Tottenham;21
@@ -137,14 +137,13 @@ nut fc;Arnautovic;Attaquant;Stoke City;14
 nut fc;Austin;Attaquant;Southampton;14
 nut fc;Clyne;Défenseur;Liverpool;15
 nut fc;Coutinho;Milieu;Liverpool;67
-nut fc;Darmian;Défenseur;Man United;14
 nut fc;Eriksen;Milieu;Tottenham;17
 nut fc;Ethan Robson;Milieu;Sunderland;1
-nut fc;Flanagan;Défenseur;Burnley;1
 nut fc;Gibson;Défenseur;Middlesbrough;15
 nut fc;Hazard;Milieu;Chelsea;76
 nut fc;Karius;Gardien;Liverpool;1
 nut fc;Lamela;Milieu;Tottenham;28
+nut fc;Lingard;Milieu;Man United;15
 nut fc;Manninger;Gardien;Liverpool;9
 nut fc;Marc Wilson;Défenseur;Bournemouth;5
 nut fc;Mignolet;Gardien;Liverpool;18
@@ -153,6 +152,6 @@ nut fc;Monreal;Défenseur;Arsenal;16
 nut fc;Oscar;Milieu;Chelsea;49
 nut fc;Oxlade-Chamberlain;Milieu;Arsenal;26
 nut fc;Rashford;Attaquant;Man United;25
-nut fc;Tadic;Milieu;Southampton;19
+nut fc;Stones;Défenseur;Man City;18
 nut fc;Zaza;Attaquant;West Ham;15
 nut fc;van Dijk;Défenseur;Southampton;13
