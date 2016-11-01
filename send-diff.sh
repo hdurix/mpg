@@ -2,7 +2,7 @@
 
 BOT_ID=bot240296447:AAGBITXsf-lum81WoVjUS2oQEaJJ2t3hUwQ
 CHAT_ID=-165929953
-#CHAT_ID=26450749
+MPG_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1wZ191c2VyXzYwMzkxIiwiaWF0IjoxNDcyOTg5Njg0fQ.L_2hilBpHb-psOODgJGbaSfi8SyS1GTrqtmxn2in4eI
 LOG_FILE=/home/pi/java/mpg/log-extract.log
 
 function log {
@@ -26,7 +26,7 @@ FILENAME_DIFF=mpg-$1.diff
 FILENAME_CSV=mpg-$1.csv
 COUNTRY=$1
 
-java -jar extract.jar $FILENAME_CSV $2
+java -jar mpg-extract.jar $FILENAME_CSV $2 $MPG_MPG_TOKEN
 
 git diff -U0 $FILENAME_CSV | grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' > $FILENAME_DIFF
 
