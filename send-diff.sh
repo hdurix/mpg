@@ -1,5 +1,4 @@
 #!/bin/bash
-#test
 
 BOT_ID=bot240296447:AAGBITXsf-lum81WoVjUS2oQEaJJ2t3hUwQ
 CHAT_ID=-165929953
