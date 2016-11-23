@@ -21,6 +21,9 @@ Arâches FC;Santini;Attaquant;Caen;21
 Arâches FC;Subasic;Gardien;Monaco;17
 Arâches FC;Thelin;Attaquant;Bordeaux;6
 Arâches FC;Vainqueur;Milieu;Marseille;13
+FC Pine-Tonio;Abeid;Milieu;Dijon;3
+FC Pine-Tonio;Assou-Ekotto;Défenseur;Metz;1
+FC Pine-Tonio;Badila;Défenseur;Nancy;1
 FC Pine-Tonio;Boudebouz;Milieu;Montpellier;26
 FC Pine-Tonio;Cabot;Milieu;Lorient;3
 FC Pine-Tonio;Danze;Défenseur;Rennes;16
@@ -30,18 +33,16 @@ FC Pine-Tonio;Fekir;Milieu;Lyon;38
 FC Pine-Tonio;Ferri;Milieu;Lyon;9
 FC Pine-Tonio;Glik;Défenseur;Monaco;22
 FC Pine-Tonio;Gomis;Attaquant;Marseille;27
-FC Pine-Tonio;Kalulu;Attaquant;Lyon;3
+FC Pine-Tonio;Gonalons;Milieu;Lyon;16
 FC Pine-Tonio;Kurzawa;Défenseur;Paris;42
 FC Pine-Tonio;Lacazette;Attaquant;Lyon;182
 FC Pine-Tonio;Mammana;Défenseur;Lyon;7
-FC Pine-Tonio;Martin;Milieu;Dijon;8
 FC Pine-Tonio;Marçal;Défenseur;Guingamp;14
 FC Pine-Tonio;Mbappe-Lottin;Attaquant;Monaco;10
 FC Pine-Tonio;Mexer;Défenseur;Rennes;10
 FC Pine-Tonio;Reulet;Gardien;Caen;5
+FC Pine-Tonio;Rolando;Défenseur;Marseille;8
 FC Pine-Tonio;Seri;Milieu;Nice;13
-FC Pine-Tonio;Squillaci;Défenseur;Bastia;11
-FC Pine-Tonio;Tousart;Milieu;Lyon;3
 FC Pine-Tonio;Vercoutre;Gardien;Caen;14
 Gros Zguegue FC;Cetout;Défenseur;Nancy;12
 Gros Zguegue FC;Da Silva;Défenseur;Caen;22
@@ -83,9 +84,9 @@ Les Bâtards;Ndoye;Milieu;Angers;42
 Les Bâtards;Roussillon;Défenseur;Montpellier;11
 Les Bâtards;Salibur;Milieu;Guingamp;25
 Les Bâtards;Salin;Gardien;Guingamp;6
+Les galactiques;Alessandrini;Milieu;Marseille;14
 Les galactiques;Baal;Défenseur;Rennes;11
 Les galactiques;Bakayoko;Milieu;Monaco;21
-Les galactiques;Bengtsson;Défenseur;Bastia;3
 Les galactiques;Cabella;Milieu;Marseille;42
 Les galactiques;Cardinale;Gardien;Nice;21
 Les galactiques;Carrillo;Attaquant;Monaco;10
@@ -95,17 +96,16 @@ Les galactiques;Fabinho;Défenseur;Monaco;49
 Les galactiques;Falette;Défenseur;Metz;8
 Les galactiques;Grosicki;Attaquant;Rennes;11
 Les galactiques;Junior Dalé;Attaquant;Nancy;10
-Les galactiques;Koziello;Milieu;Nice;31
 Les galactiques;Leya Iseka;Attaquant;Marseille;6
+Les galactiques;Lopez;Milieu;Marseille;7
 Les galactiques;Malcom;Milieu;Bordeaux;8
 Les galactiques;Malcuit;Défenseur;Saint Etienne;15
 Les galactiques;Marquinhos;Défenseur;Paris;38
-Les galactiques;Pastore;Milieu;Paris;44
+Les galactiques;Mendy;Défenseur;Monaco;16
 Les galactiques;Rolan;Attaquant;Bordeaux;41
 Les galactiques;Rybus;Défenseur;Lyon;10
 Les galactiques;Thauvin;Milieu;Marseille;17
 Les galactiques;Verratti;Milieu;Paris;43
-Les galactiques;de Pauw;Milieu;Guingamp;6
 Mon équipe;Ben Arfa;Milieu;Paris;61
 Mon équipe;Bodmer;Défenseur;Nice;13
 Mon équipe;Civelli;Défenseur;Lille;11
