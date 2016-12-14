@@ -92,6 +92,7 @@ Shame On You;Schmeichel;Gardien;Leicester;17
 Shame On You;Shaw;Défenseur;Man United;19
 Shame On You;Snodgrass;Milieu;Hull city;22
 Shame On You;Zaha;Milieu;Crystal Palace;16
+The Bastards;Allsop;Gardien;Bournemouth;1
 The Bastards;Antonio;Milieu;West Ham;25
 The Bastards;Capoue;Milieu;Watford;33
 The Bastards;Dann;Défenseur;Crystal Palace;24
@@ -109,7 +110,6 @@ The Bastards;Milner;Milieu;Liverpool;21
 The Bastards;Myhill;Gardien;West Bromwich;7
 The Bastards;Shaqiri;Milieu;Stoke City;17
 The Bastards;Slimani;Attaquant;Leicester;36
-The Bastards;Stuani;Attaquant;Middlesbrough;23
 The Bastards;Tomkins;Défenseur;Crystal Palace;8
 The Bastards;Vokes;Attaquant;Burnley;14
 The Bastards;Walker;Défenseur;Tottenham;21
@@ -118,7 +118,6 @@ The Bastards;Wilson;Attaquant;Bournemouth;13
 myteam;Agüero;Attaquant;Man City;161
 myteam;Aké;Défenseur;Bournemouth;6
 myteam;Allen;Milieu;Stoke City;12
-myteam;Allsop;Gardien;Bournemouth;1
 myteam;Boruc;Gardien;Bournemouth;10
 myteam;Chadli;Milieu;West Bromwich;10
 myteam;Cook;Défenseur;Bournemouth;9
@@ -131,6 +130,7 @@ myteam;Kanté;Milieu;Chelsea;28
 myteam;Matip;Défenseur;Liverpool;16
 myteam;Redmond;Milieu;Southampton;14
 myteam;Stanislas;Milieu;Bournemouth;3
+myteam;Stuani;Attaquant;Middlesbrough;23
 myteam;Wanyama;Milieu;Tottenham;17
 myteam;Williams;Défenseur;Everton;16
 nut fc;Austin;Attaquant;Southampton;14
