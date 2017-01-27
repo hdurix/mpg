@@ -40,7 +40,6 @@ I speak pas english;Can;Milieu;Liverpool;32
 I speak pas english;Dele Alli;Milieu;Tottenham;52
 I speak pas english;Dembélé;Milieu;Tottenham;11
 I speak pas english;Dier;Milieu;Tottenham;19
-I speak pas english;Hernández;Défenseur;Leicester;7
 I speak pas english;Johnson;Défenseur;Stoke City;9
 I speak pas english;Karius;Gardien;Liverpool;7
 I speak pas english;Lukaku;Attaquant;Everton;61
@@ -95,9 +94,9 @@ Saxe-Gambetta FC;Sterling;Attaquant;Man City;60
 Saxe-Gambetta FC;Vokes;Attaquant;Burnley;15
 Saxe-Gambetta FC;Wilson;Attaquant;Bournemouth;15
 Shame On You;Alderweireld;Défenseur;Tottenham;19
-Shame On You;Arnautovic;Attaquant;Stoke City;16
 Shame On You;Azpilicueta;Défenseur;Chelsea;35
 Shame On You;Baines;Défenseur;Everton;23
+Shame On You;Barkley;Milieu;Everton;19
 Shame On You;Carroll;Attaquant;West Ham;23
 Shame On You;Crouch;Attaquant;Stoke City;15
 Shame On You;De Bruyne;Milieu;Man City;42
@@ -107,13 +106,13 @@ Shame On You;Fer;Milieu;Swansea;20
 Shame On You;Fraser;Milieu;Bournemouth;14
 Shame On You;Gabriel;Défenseur;Arsenal;13
 Shame On You;Guzan;Gardien;Middlesbrough;9
+Shame On You;Hernández;Attaquant;Hull city;14
 Shame On You;Mata;Milieu;Man United;30
 Shame On You;McAuley;Défenseur;West Bromwich;32
 Shame On You;Origi;Attaquant;Liverpool;21
 Shame On You;Stanislas;Milieu;Bournemouth;13
 Shame On You;Valdés;Gardien;Middlesbrough;14
 Shame On You;Willian;Milieu;Chelsea;38
-Shame On You;Zaha;Milieu;Crystal Palace;18
 The Bastards;Aké;Défenseur;Chelsea;12
 The Bastards;Allen;Milieu;Stoke City;22
 The Bastards;Antonio;Milieu;West Ham;27
@@ -132,7 +131,7 @@ The Bastards;Rojo;Défenseur;Man United;12
 The Bastards;Sánchez;Attaquant;Arsenal;106
 The Bastards;Walcott;Attaquant;Arsenal;56
 The Bastards;Walker;Défenseur;Tottenham;20
-nut fc;Barnes;Attaquant;Burnley;11
+nut fc;Cahill;Défenseur;Chelsea;19
 nut fc;Clyne;Défenseur;Liverpool;18
 nut fc;Elneny;Milieu;Arsenal;9
 nut fc;Eriksen;Milieu;Tottenham;35
@@ -141,16 +140,15 @@ nut fc;Gibson;Défenseur;Middlesbrough;18
 nut fc;Grant;Gardien;Stoke City;11
 nut fc;Hazard;Milieu;Chelsea;101
 nut fc;Iheanacho;Attaquant;Man City;15
-nut fc;Kightly;Milieu;Burnley;4
 nut fc;Lingard;Milieu;Man United;15
 nut fc;Mahrez;Milieu;Leicester;30
 nut fc;Mkhitaryan;Milieu;Man United;20
 nut fc;Monreal;Défenseur;Arsenal;19
 nut fc;Mustafi;Défenseur;Arsenal;22
+nut fc;Redmond;Milieu;Southampton;16
 nut fc;Robles;Gardien;Everton;9
 nut fc;Rooney;Attaquant;Man United;22
 nut fc;Stuani;Attaquant;Middlesbrough;23
 nut fc;Trippier;Défenseur;Tottenham;3
 nut fc;Vardy;Attaquant;Leicester;45
 nut fc;Zabaleta;Défenseur;Man City;18
-nut fc;van Dijk;Défenseur;Southampton;29
