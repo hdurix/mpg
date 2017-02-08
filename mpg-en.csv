@@ -4,9 +4,9 @@
 74 c'est la champion's league;Coleman;Défenseur;Everton;21
 74 c'est la champion's league;Coutinho;Milieu;Liverpool;43
 74 c'est la champion's league;Daniels;Défenseur;Bournemouth;19
-74 c'est la champion's league;Long;Attaquant;Southampton;18
-74 c'est la champion's league;Lucas Pérez;Attaquant;Arsenal;11
+74 c'est la champion's league;King;Attaquant;Bournemouth;14
 74 c'est la champion's league;Mawson;Défenseur;Swansea;7
+74 c'est la champion's league;Morrison;Milieu;West Bromwich;12
 74 c'est la champion's league;Moses;Milieu;Chelsea;26
 74 c'est la champion's league;Okaka;Attaquant;Watford;12
 74 c'est la champion's league;Pedro;Attaquant;Chelsea;37
@@ -54,10 +54,8 @@ I speak pas english;van der Hoorn;Défenseur;Swansea;8
 Nuggets Ta Mère;Barragán;Défenseur;Middlesbrough;18
 Nuggets Ta Mère;Bellerín;Défenseur;Arsenal;19
 Nuggets Ta Mère;Fernandinho;Milieu;Man City;22
-Nuggets Ta Mère;Fischer;Attaquant;Middlesbrough;11
-Nuggets Ta Mère;Friend;Défenseur;Middlesbrough;13
-Nuggets Ta Mère;Jagielka;Défenseur;Everton;15
 Nuggets Ta Mère;Kanté;Milieu;Chelsea;47
+Nuggets Ta Mère;Keane;Défenseur;Burnley;20
 Nuggets Ta Mère;Llorente;Attaquant;Swansea;29
 Nuggets Ta Mère;Lloris;Gardien;Tottenham;33
 Nuggets Ta Mère;Martial;Attaquant;Man United;29
@@ -72,6 +70,7 @@ Nuggets Ta Mère;Schmeichel;Gardien;Leicester;19
 Nuggets Ta Mère;Stones;Défenseur;Man City;18
 Nuggets Ta Mère;Wanyama;Milieu;Tottenham;22
 Nuggets Ta Mère;Wijnaldum;Milieu;Liverpool;18
+Nuggets Ta Mère;Williams;Défenseur;Everton;19
 Nuggets Ta Mère;Xhaka;Milieu;Arsenal;21
 Saxe-Gambetta FC;Bernardo;Défenseur;Middlesbrough;2
 Saxe-Gambetta FC;Cook;Défenseur;Bournemouth;22
@@ -131,13 +130,12 @@ The Bastards;Walcott;Attaquant;Arsenal;56
 The Bastards;Walker;Défenseur;Tottenham;20
 nut fc;Cahill;Défenseur;Chelsea;19
 nut fc;Clyne;Défenseur;Liverpool;18
-nut fc;Elneny;Milieu;Arsenal;9
 nut fc;Eriksen;Milieu;Tottenham;35
 nut fc;Fàbregas;Milieu;Chelsea;20
+nut fc;Gabbiadini;Attaquant;Southampton;13
 nut fc;Gibson;Défenseur;Middlesbrough;18
 nut fc;Grant;Gardien;Stoke City;11
 nut fc;Hazard;Milieu;Chelsea;101
-nut fc;Iheanacho;Attaquant;Man City;15
 nut fc;Lingard;Milieu;Man United;15
 nut fc;Mahrez;Milieu;Leicester;30
 nut fc;Mkhitaryan;Milieu;Man United;20
@@ -146,7 +144,7 @@ nut fc;Mustafi;Défenseur;Arsenal;22
 nut fc;Redmond;Milieu;Southampton;16
 nut fc;Robles;Gardien;Everton;9
 nut fc;Rooney;Attaquant;Man United;22
+nut fc;Sané;Milieu;Man City;16
 nut fc;Stuani;Attaquant;Middlesbrough;23
-nut fc;Trippier;Défenseur;Tottenham;3
 nut fc;Vardy;Attaquant;Leicester;45
 nut fc;Zabaleta;Défenseur;Man City;18
