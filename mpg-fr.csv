@@ -22,12 +22,11 @@ Arâches FC;Tolisso;Milieu;Lyon;28
 Arâches FC;Trejo;Milieu;Toulouse;17
 FC Pine-Tonio;Bakayoko;Milieu;Monaco;27
 FC Pine-Tonio;Baysse;Défenseur;Nice;10
+FC Pine-Tonio;Cornet;Attaquant;Lyon;11
 FC Pine-Tonio;Dante;Défenseur;Nice;31
 FC Pine-Tonio;Danze;Défenseur;Rennes;15
 FC Pine-Tonio;Diony;Attaquant;Dijon;34
 FC Pine-Tonio;Enyeama;Gardien;Lille;11
-FC Pine-Tonio;Falette;Défenseur;Metz;10
-FC Pine-Tonio;Gonçalo Guedes;Attaquant;Paris;9
 FC Pine-Tonio;Lopez;Milieu;Marseille;28
 FC Pine-Tonio;Lucas Moura;Attaquant;Paris;38
 FC Pine-Tonio;Maignan;Gardien;Lille;5
@@ -36,6 +35,8 @@ FC Pine-Tonio;Malcuit;Défenseur;Saint Etienne;11
 FC Pine-Tonio;Martin;Milieu;Dijon;4
 FC Pine-Tonio;Mendy;Défenseur;Monaco;32
 FC Pine-Tonio;Oniangué;Milieu;Bastia;18
+FC Pine-Tonio;Ounas;Milieu;Bordeaux;11
+FC Pine-Tonio;Pastore;Milieu;Paris;9
 FC Pine-Tonio;Rafael;Défenseur;Lyon;16
 FC Pine-Tonio;Rolan;Attaquant;Bordeaux;41
 FC Pine-Tonio;Rolando;Défenseur;Marseille;10
@@ -43,11 +44,10 @@ FC Pine-Tonio;Stepinski;Attaquant;Nantes;33
 FC Pine-Tonio;Thiago Silva;Défenseur;Paris;38
 FC Pine-Tonio;Tousart;Milieu;Lyon;2
 FC Pine-Tonio;Valbuena;Milieu;Lyon;31
-FC Pine-Tonio;de Pauw;Milieu;Guingamp;13
-Gros Zguegue FC;Alou Diarra;Milieu;Nancy;8
 Gros Zguegue FC;Balotelli;Attaquant;Nice;71
 Gros Zguegue FC;Briand;Attaquant;Guingamp;41
 Gros Zguegue FC;Chernik;Gardien;Nancy;6
+Gros Zguegue FC;Costil;Gardien;Rennes;17
 Gros Zguegue FC;Erdinc;Attaquant;Metz;16
 Gros Zguegue FC;Eysseric;Milieu;Nice;11
 Gros Zguegue FC;Lacazette;Attaquant;Lyon;91
@@ -63,7 +63,6 @@ Gros Zguegue FC;Sio;Attaquant;Rennes;35
 Gros Zguegue FC;Souquet;Défenseur;Nice;5
 Gros Zguegue FC;Thauvin;Milieu;Marseille;31
 Gros Zguegue FC;Théophile-Catherine;Défenseur;Saint Etienne;10
-Gros Zguegue FC;Vercoutre;Gardien;Caen;10
 Gros Zguegue FC;Veretout;Milieu;Saint Etienne;13
 Gros Zguegue FC;de Preville;Attaquant;Lille;10
 Les Bâtards;Areola;Gardien;Paris;16
@@ -152,12 +151,11 @@ asse la revanche;Carrillo;Attaquant;Monaco;22
 asse la revanche;Congré;Défenseur;Montpellier;11
 asse la revanche;Cuffaut;Défenseur;Nancy;7
 asse la revanche;Dalbert;Défenseur;Nice;11
+asse la revanche;Donis;Attaquant;Nice;5
 asse la revanche;El Ghazi;Attaquant;Lille;10
 asse la revanche;Ghezzal;Milieu;Lyon;25
 asse la revanche;Gomis;Attaquant;Marseille;122
 asse la revanche;Hilton;Défenseur;Montpellier;14
-asse la revanche;Jeannot;Attaquant;Lorient;6
-asse la revanche;Jorginho;Attaquant;Saint Etienne;3
 asse la revanche;Le Bihan;Attaquant;Nice;1
 asse la revanche;Moulin;Gardien;Saint Etienne;10
 asse la revanche;N'Jie;Attaquant;Marseille;14
