@@ -28,13 +28,12 @@ FC Pine-Tonio;Dante;Défenseur;Nice;31
 FC Pine-Tonio;Danze;Défenseur;Rennes;15
 FC Pine-Tonio;Diony;Attaquant;Dijon;34
 FC Pine-Tonio;Enyeama;Gardien;Lille;11
+FC Pine-Tonio;Karamoh;Attaquant;Caen;12
 FC Pine-Tonio;Lopez;Milieu;Marseille;28
 FC Pine-Tonio;Lucas Moura;Attaquant;Paris;38
 FC Pine-Tonio;Maignan;Gardien;Lille;5
 FC Pine-Tonio;Majeed Waris;Attaquant;Lorient;32
-FC Pine-Tonio;Malcuit;Défenseur;Saint Etienne;11
 FC Pine-Tonio;Mendy;Défenseur;Monaco;32
-FC Pine-Tonio;Ounas;Milieu;Bordeaux;11
 FC Pine-Tonio;Pastore;Milieu;Paris;9
 FC Pine-Tonio;Rafael;Défenseur;Lyon;16
 FC Pine-Tonio;Rolan;Attaquant;Bordeaux;41
@@ -42,6 +41,7 @@ FC Pine-Tonio;Rolando;Défenseur;Marseille;10
 FC Pine-Tonio;Stepinski;Attaquant;Nantes;33
 FC Pine-Tonio;Thiago Silva;Défenseur;Paris;38
 FC Pine-Tonio;Tousart;Milieu;Lyon;2
+FC Pine-Tonio;Vada;Milieu;Bordeaux;12
 FC Pine-Tonio;Valbuena;Milieu;Lyon;31
 Gros Zguegue FC;Balotelli;Attaquant;Nice;71
 Gros Zguegue FC;Briand;Attaquant;Guingamp;41
@@ -85,7 +85,6 @@ Les Bâtards;Trapp;Gardien;Paris;11
 Les galactiques;Boudebouz;Milieu;Montpellier;54
 Les galactiques;Cetout;Défenseur;Nancy;8
 Les galactiques;Dia;Attaquant;Nancy;9
-Les galactiques;Diallo;Milieu;Guingamp;12
 Les galactiques;Falcao;Attaquant;Monaco;110
 Les galactiques;Fekir;Milieu;Lyon;35
 Les galactiques;Germain;Attaquant;Monaco;91
